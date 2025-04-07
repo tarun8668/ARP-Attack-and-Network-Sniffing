@@ -35,6 +35,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 
  dsniff:
+![image](https://github.com/user-attachments/assets/6c795d9f-51ce-47c0-bf8d-277176f2a0e8)
 
 
 
@@ -43,6 +44,8 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/94480616-d6e4-4a87-b861-f2ae92082d0c)
+
 
 
 
@@ -50,6 +53,8 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/67e91bb2-6e2a-452a-a372-84e42cf0992d)
+
 
 
 
